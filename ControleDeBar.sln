@@ -8,6 +8,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Dominio", "2. Dominio", "{A22A214D-FFA0-45E1-A8FD-AEC8DBB9D5DB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Infraestrutura", "3. Infraestrutura", "{3979D759-5FE1-4D39-A691-82EE94A690F4}"
+	ProjectSection(SolutionItems) = preProject
+		ControleDeBar.Infraestrutura.Orm = ControleDeBar.Infraestrutura.Orm
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleDeBar.WebApp", "ControleDeBar.WebApp\ControleDeBar.WebApp.csproj", "{BF01220C-F369-4173-A55F-A1C8D2A6EE41}"
 EndProject
